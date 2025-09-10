@@ -19,8 +19,7 @@ const Hero = () => {
 
         <div className="">
           <h1 className="font-bold md:leading-14 leading-8 md:text-[56px] text-[28px] mt-6">
-            Hi, I&apos;m Srinivas Sai.
-            <br /> Software Engineer
+            Hi, I&apos;m Srinivas Sai
           </h1>
           <h3 className="text-gray-600 mt-4 flex-wrap md:px-0 px-4">
             Passionate full-stack developer specializing in modern web technologies,
