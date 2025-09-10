@@ -1,0 +1,82 @@
+{
+  "personal": {
+    "name": "Srinivas Sai",
+    "title": "Full Stack Developer",
+    "about": [
+      "I am a passionate Full Stack Developer with strong experience in Java, Spring Boot, MySQL, PostgreSQL, Redis, Docker, React, and CI/CD pipelines. Currently working at AscendSoft Private Limited, I have engineered over 30 RESTful APIs, automated deployments using Docker and GitHub Actions, and contributed to AI agent integration with intelligent frontend experiences.",
+      "I have also built a travel booking platform with backend APIs for cab, bus, and tour reservations, integrated Razorpay and Firebase for real-time payments and notifications, and streamlined deployments through CI/CD automation. In addition, I created a cultural fest registration platform optimized with caching, containerization, and high availability, ensuring scalability and performance under heavy load.",
+      "With a solid foundation in Data Structures and Algorithms and certifications in Java Full Stack, Cloud Computing, and Python, I am eager to contribute to building scalable backend systems, cloud-native applications, and innovative full stack solutions. My goal is to grow as a software engineer by solving complex problems and creating efficient, high-impact applications."
+    ],
+    "github": "https://github.com/srinibash-sai",
+    "linkedin": "https://www.linkedin.com/in/srinivas-sai-102b42256",
+    "email": "srinibash.sai26@gmail.com",
+    "resumeUrl": "/resume.pdf"
+  },
+  "experience": [
+    {
+      "title": "Full Stack Developer",
+      "company": "AscendSoft Private Limited",
+      "duration": "June 2025 - Present",
+      "responsibilities": [
+        "Engineered 30+ RESTful APIs using Spring Boot, PostgreSQL, and RabbitMQ, enhancing backend efficiency and modularity.",
+        "Integrated multiple third-party APIs and services to expand platform functionality and improve user experience.",
+        "Automated deployments with Docker and GitHub Actions, cutting setup and release time by 50%.",
+        "Built and deployed AI agents using Spring AI, enabling advanced automation and intelligent system interactions.",
+        "Contributed to AI agent integration and Next.js frontend, enabling intelligent and interactive user experiences."
+      ]
+    },
+    {
+      "title": "Backend Intern",
+      "company": "Sainath Travels",
+      "duration": "August 2024 - December 2024",
+      "responsibilities": [
+        "Created backend APIs for cab, bus, and tour bookings using Spring Boot, MySQL, and Redis.",
+        "Integrated Razorpay and Firebase FCM, enabling real-time payments and notifications with 99.9% delivery success.",
+        "Automated CI/CD with GitHub Actions and Docker, cutting deployment time by 60% and boosting delivery speed."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "TravelApi",
+      "description": "Built a vehicle booking API for cab, bus, and tour services using Spring Boot, with MySQL for storage and Redis for caching to ensure high performance.",
+      "image": "/travel-booking-api-dashboard.jpg",
+      "technologies": ["Spring Boot", "MySQL", "Docker", "Redis", "RazorPay"],
+      "githubUrl": "https://github.com/srinibash-sai/Travel-api"
+    },
+    {
+      "title": "BetterErp",
+      "description": "Developed a role-based academic ERP system with features for admin, faculty, and students using Spring Boot and React.",
+      "image": "/academic-erp-system-dashboard.jpg",
+      "technologies": ["Spring Boot", "MySQL", "React", "Docker"],
+      "githubUrl": "https://github.com/srinibash-sai/tech-m-erp-api"
+    },
+    {
+      "title": "FestEventAPI",
+      "description": "Created an event registration API for college fests, allowing students to register for events via a web interface. Built with Spring Boot for the backend, integrated Redis for caching, and used MySQL for data persistence. CI/CD enabled via GitHub Actions.",
+      "image": "/fest-event-registration-dashboard.jpg",
+      "technologies": [
+        "Spring Boot",
+        "MySQL",
+        "Redis",
+        "React",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "githubUrl": "https://github.com/your-username/fest-event-api"
+    }
+  ],
+  "skills": {
+    "languages": ["Java", "Python", "JavaScript", "C", "SQL", "HTML & CSS"],
+    "frameworks": ["Spring Boot", "Spring JPA", "Flask", "React", "Node.js"],
+    "databases": ["MySQL", "PostgreSQL", "Redis", "Firebase"],
+    "tools": [
+      "Git",
+      "GitHub Actions",
+      "Docker",
+      "Maven",
+      "Postman",
+      "REST APIs"
+    ]
+  }
+}
